@@ -16,7 +16,7 @@ Key Features
 Performance
 - 
 
-In a simple benchmark on an average computer, processing **700 vectors of 2000 dimensions** took about **3 ms** with this initial raw, non-optimized version.
+In a simple benchmark on an average computer, processing **700 vectors of 2000 dimensions** took about **3000 ms** with this initial raw, non-optimized version.
 
 Actual performance may vary depending on hardware and runtime conditions.
 
